@@ -1,0 +1,15 @@
+D:\Patika\Interface\bin\Debug\net7.0\Interface.exe
+D:\Patika\Interface\bin\Debug\net7.0\Interface.deps.json
+D:\Patika\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+D:\Patika\Interface\bin\Debug\net7.0\Interface.dll
+D:\Patika\Interface\bin\Debug\net7.0\Interface.pdb
+D:\Patika\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+D:\Patika\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+D:\Patika\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+D:\Patika\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+D:\Patika\Interface\obj\Debug\net7.0\Interface.dll
+D:\Patika\Interface\obj\Debug\net7.0\refint\Interface.dll
+D:\Patika\Interface\obj\Debug\net7.0\Interface.pdb
+D:\Patika\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+D:\Patika\Interface\obj\Debug\net7.0\ref\Interface.dll
